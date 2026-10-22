@@ -1,0 +1,6 @@
+{
+  "name": "Java Network Programming Lab",
+  "description": "Interactive client-server socket programming workbench, simulator, and Java code suite designed for BIT university students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
